@@ -1,0 +1,66 @@
+﻿  Multi_NetworkHandlerClient.cpp
+  The contents of <filesystem> are available only with C++17 or later.
+C:\Users\18tre\source\repos\ServerLib\WinNetlib\Multi\Multi_NetworkBase.h(45,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\18tre\source\repos\ServerLib\WinNetlib\Multi\Multi_NetworkBase.h(60,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\18tre\source\repos\ServerLib\WinNetlib\Multi\Multi_NetworkBase.h(69,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\18tre\source\repos\ServerLib\WinNetlib\Multi\Multi_NetworkBase.h(78,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\18tre\source\repos\ServerLib\WinNetlib\Multi\Multi_NetworkBase.h(274,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\18tre\source\repos\ServerLib\WinNetlib\Multi\Multi_NetworkBase.h(283,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\18tre\source\repos\ServerLib\WinNetlib\Multi\Multi_NetworkBase.h(292,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\18tre\source\repos\ServerLib\WinNetlib\Multi\Multi_NetworkBase.h(301,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\18tre\source\repos\ServerLib\WinNetlib\Multi\Multi_NetworkBase.h(310,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\18tre\source\repos\ServerLib\WinNetlib\Multi\Multi_NetworkBase.h(319,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\18tre\source\repos\ServerLib\WinNetlib\Multi\Multi_NetworkBase.h(535,15): warning C4244: 'initializing': conversion from 'std::streamoff' to 'int', possible loss of data
+C:\Users\18tre\source\repos\ServerLib\WinNetlib\Multi\Multi_NetworkBase.h(684,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\18tre\source\repos\ServerLib\WinNetlib\Multi\Multi_NetworkBase.h(742,15): warning C4244: 'initializing': conversion from 'std::streamoff' to 'int', possible loss of data
+C:\Users\18tre\source\repos\ServerLib\WinNetlib\Multi\Multi_NetworkHandlerClient.h(35,20): warning C4018: '<': signed/unsigned mismatch
+  Multi_NetworkHandlerServer.cpp
+  The contents of <filesystem> are available only with C++17 or later.
+C:\Users\18tre\source\repos\ServerLib\WinNetlib\Multi\Multi_NetworkBase.h(45,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\18tre\source\repos\ServerLib\WinNetlib\Multi\Multi_NetworkBase.h(60,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\18tre\source\repos\ServerLib\WinNetlib\Multi\Multi_NetworkBase.h(69,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\18tre\source\repos\ServerLib\WinNetlib\Multi\Multi_NetworkBase.h(78,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\18tre\source\repos\ServerLib\WinNetlib\Multi\Multi_NetworkBase.h(274,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\18tre\source\repos\ServerLib\WinNetlib\Multi\Multi_NetworkBase.h(283,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\18tre\source\repos\ServerLib\WinNetlib\Multi\Multi_NetworkBase.h(292,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\18tre\source\repos\ServerLib\WinNetlib\Multi\Multi_NetworkBase.h(301,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\18tre\source\repos\ServerLib\WinNetlib\Multi\Multi_NetworkBase.h(310,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\18tre\source\repos\ServerLib\WinNetlib\Multi\Multi_NetworkBase.h(319,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\18tre\source\repos\ServerLib\WinNetlib\Multi\Multi_NetworkBase.h(535,15): warning C4244: 'initializing': conversion from 'std::streamoff' to 'int', possible loss of data
+C:\Users\18tre\source\repos\ServerLib\WinNetlib\Multi\Multi_NetworkBase.h(684,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\18tre\source\repos\ServerLib\WinNetlib\Multi\Multi_NetworkBase.h(742,15): warning C4244: 'initializing': conversion from 'std::streamoff' to 'int', possible loss of data
+C:\Users\18tre\source\repos\ServerLib\WinNetlib\Multi\Multi_NetworkHandlerServer.h(36,21): warning C4018: '<': signed/unsigned mismatch
+  Single_NetworkHandlerClient.cpp
+  The contents of <filesystem> are available only with C++17 or later.
+C:\Users\18tre\source\repos\ServerLib\WinNetlib\Single\Single_NetworkBase.h(45,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\18tre\source\repos\ServerLib\WinNetlib\Single\Single_NetworkBase.h(60,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\18tre\source\repos\ServerLib\WinNetlib\Single\Single_NetworkBase.h(69,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\18tre\source\repos\ServerLib\WinNetlib\Single\Single_NetworkBase.h(78,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\18tre\source\repos\ServerLib\WinNetlib\Single\Single_NetworkBase.h(473,15): warning C4244: 'initializing': conversion from 'std::streamoff' to 'int', possible loss of data
+  Single_NetworkHandlerServer.cpp
+  The contents of <filesystem> are available only with C++17 or later.
+C:\Users\18tre\source\repos\ServerLib\WinNetlib\Single\Single_NetworkBase.h(45,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\18tre\source\repos\ServerLib\WinNetlib\Single\Single_NetworkBase.h(60,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\18tre\source\repos\ServerLib\WinNetlib\Single\Single_NetworkBase.h(69,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\18tre\source\repos\ServerLib\WinNetlib\Single\Single_NetworkBase.h(78,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\18tre\source\repos\ServerLib\WinNetlib\Single\Single_NetworkBase.h(473,15): warning C4244: 'initializing': conversion from 'std::streamoff' to 'int', possible loss of data
+  ClientLib.cpp
+  The contents of <filesystem> are available only with C++17 or later.
+C:\Users\18tre\source\repos\ServerLib\WinNetlib\Multi\Multi_NetworkBase.h(45,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\18tre\source\repos\ServerLib\WinNetlib\Multi\Multi_NetworkBase.h(60,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\18tre\source\repos\ServerLib\WinNetlib\Multi\Multi_NetworkBase.h(69,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\18tre\source\repos\ServerLib\WinNetlib\Multi\Multi_NetworkBase.h(78,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\18tre\source\repos\ServerLib\WinNetlib\Multi\Multi_NetworkBase.h(274,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\18tre\source\repos\ServerLib\WinNetlib\Multi\Multi_NetworkBase.h(283,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\18tre\source\repos\ServerLib\WinNetlib\Multi\Multi_NetworkBase.h(292,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\18tre\source\repos\ServerLib\WinNetlib\Multi\Multi_NetworkBase.h(301,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\18tre\source\repos\ServerLib\WinNetlib\Multi\Multi_NetworkBase.h(310,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\18tre\source\repos\ServerLib\WinNetlib\Multi\Multi_NetworkBase.h(319,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\18tre\source\repos\ServerLib\WinNetlib\Multi\Multi_NetworkBase.h(535,15): warning C4244: 'initializing': conversion from 'std::streamoff' to 'int', possible loss of data
+C:\Users\18tre\source\repos\ServerLib\WinNetlib\Multi\Multi_NetworkBase.h(684,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\18tre\source\repos\ServerLib\WinNetlib\Multi\Multi_NetworkBase.h(742,15): warning C4244: 'initializing': conversion from 'std::streamoff' to 'int', possible loss of data
+C:\Users\18tre\source\repos\ServerLib\WinNetlib\Multi\Multi_NetworkHandlerClient.h(35,20): warning C4018: '<': signed/unsigned mismatch
+  Generating Code...
+C:\Users\18tre\source\repos\ServerLib\WinNetlib\Multi\Multi_NetworkBase.h(307): warning C4715: 'Multi_NetworkBase::FindSocketIndex': not all control paths return a value
+C:\Users\18tre\source\repos\ServerLib\WinNetlib\Multi\Multi_NetworkBase.h(307): warning C4715: 'Multi_NetworkBase::FindSocketIndex': not all control paths return a value
+  ClientLib.vcxproj -> C:\Users\18tre\source\repos\ServerLib\Debug\ClientLib.exe
